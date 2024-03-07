@@ -1,0 +1,1 @@
+web: gunicorn biodata_project.wsgi --log-file -

@@ -4,6 +4,7 @@ dj-database-url==2.1.0
 dj-email-url==1.0.6
 Django==5.0.3
 django-cache-url==3.4.5
+django-cors-headers==4.3.1
 django-filter==23.5
 djangorestframework==3.14.0
 drf-spectacular==0.27.1

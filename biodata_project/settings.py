@@ -66,7 +66,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'https://biodata-portal-frontend.vercel.app/',
+    'https://biodata-portal-frontend.vercel.app',
 ]
 
 ROOT_URLCONF = 'biodata_project.urls'

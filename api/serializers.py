@@ -10,5 +10,6 @@ class BiodataSerializer(serializers.ModelSerializer):
         'last_name',
         'date_of_birth',
         'reg_number',
-        'gender'
+        'gender',
+        'profile_picture'
     )
